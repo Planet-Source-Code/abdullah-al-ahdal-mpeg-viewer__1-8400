@@ -1,0 +1,3 @@
+By This program you can run mpeg in any place you want 
+just write the classes of window (the program hWnd.exe)
+will help you to get classes for any window...Enjoyyyyyyyyyyyyyyyyy.
